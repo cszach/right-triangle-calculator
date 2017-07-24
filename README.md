@@ -24,7 +24,7 @@
         You are now on the input page. <br/>
         On the input page, you will see the title "Right Triangle!" at the top, three circles, a submit button, <br/>
         and a blue triange at the bottom of the page. Those 3 circles are actually input fields.<br/>
-        Try to do the follwing things: <br/>
+        Try to do the following things: <br/>
         <ul>
             <li>Hover your mouse cursor over one of the circles</li>
             <li>Hover your mouse cursor over the submit button</li>
