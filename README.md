@@ -16,7 +16,7 @@
         <hr/>
         <h2 id="content-1">Try it out</h2>
         <p>
-        The website consists of 5 files: index.html, result.php, style.css, resultsheet.css, and script.js <br/>
+        The website consists of 5 files: index.html, result.php, style.css, resultsheet.css, and script.js. <br/>
         Download them <a href="https://github.com/nhduong0133/right-triangle-calculator/releases" target="_blank">here</a>. <br/>
         Under your root directory, create a folder. Name it "Right Triangle". Save those files in that folder. <br/>
         Then, start a virtual server. On your web browser, enter this address: localhost/Right Triangle/index.html <br/>
