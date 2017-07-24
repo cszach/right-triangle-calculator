@@ -72,6 +72,7 @@
                 <li><a href="https://github.com/nhduong0133/passwordform-demo#content-1" target="_blank">Virtual Server</a></li>
                 <li><a href="https://www.w3schools.com/js/js_cookies.asp" target="_blank">Cookies handling with JavaScript</a></li>
                 <li>PHP's <a href="http://php.net/manual/en/reserved.variables.cookies.php" target="_blank">$_COOKIE</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Pythagorean_theorem" target="_blank">Pythagoras's theorem</a></li>
             </ol>
         </p>
     </body>
