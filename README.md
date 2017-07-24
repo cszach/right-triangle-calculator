@@ -53,7 +53,7 @@
 </pre>
         Notice the last line <code>transform: rotate(180deg) scaleX(-1);</code> which makes the triangle rotates on hover. <br/>
         Next, check the script.js file. There are 2 if statements in it, which tells if the inputs are invalid. <br/>
-        It checks if the user has input something by comparing it to <code>null</code>. Recalls that null is a data type <br/>
+        It checks if the user has input something by comparing it to <code>null</code>. Recall that null is a data type <br/>
         which basically means "nothing." <br/>
         We also have the <code>isNan</code> function to check if the inputs are numeric. NaN stands for <b>N</b>ot <b>a</b> <b>N</b>umber. <br/>
         If you enter valid inputs, the code in those if statements won't get executed. JavaScript then creates 3 cookies <br/>
